@@ -1,0 +1,6 @@
+Banglore,100
+chennai,70
+hyderabad,25
+pune,90
+kolkata,200
+mumbai,700
